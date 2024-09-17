@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin-left: 450px;
+    margin-top: 200px;
+}
+
+p {
+    padding: 10px;
+    font-size: 26px;
+    min-width: 200px;
+    width: 500px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
